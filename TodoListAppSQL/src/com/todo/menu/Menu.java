@@ -22,6 +22,7 @@ public class Menu {
         System.out.println("late_check - 마감기한이 지났는지 확인");
         System.out.println("ls_comp - 완료된 것만 나타내기");
         System.out.println("ls_late - 지각한 것만 나타내기");
+        System.out.println("postpone <Id> 항목 하루 연기하기");
         System.out.println("exit - 종료");
     }
     public static void prompt() {
